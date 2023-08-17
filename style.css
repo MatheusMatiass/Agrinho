@@ -97,6 +97,7 @@ body {
     border-radius: 10px;
     cursor: pointer;
     width: 50% 50% 50%;
+    border-style: outset;
   }
 
   .custom-button:hover {
