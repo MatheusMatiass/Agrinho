@@ -97,7 +97,7 @@ body {
     border-radius: 10px;
     cursor: pointer;
     width: 50% 50% 50%;
-    border-style: outset;
+    border-style: solid;
     border-color: black;
   }
 
